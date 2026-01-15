@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+
+
+python-dotenv
+
+streamlit
+
+youtube-transcript-api
