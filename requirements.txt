@@ -2,8 +2,10 @@ langchain
 langchain-core
 langchain-community
 langchain-openai
+langchain-groq
 langchain-chroma
 
+langgraph-checkpoint-sqlite
 
 python-dotenv
 
